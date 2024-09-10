@@ -18,7 +18,7 @@
 
 .left{
   width: 50vw;
-  width: calc(100vw - 450px);
+  width: calc(100vw - 480px);
   height: 50vh;
   border: 2px dashed black;
 }
@@ -27,7 +27,7 @@
   width: 480px;
   height: 50vh;
   border: 2px dashed black;
-  /* overflow: hidden; */
+  background-color: black;
 }
 
 .bottom{
